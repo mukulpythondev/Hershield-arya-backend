@@ -1,0 +1,587 @@
+{
+    "project_name": "HerShield",
+    "focus": "Women's Safety",
+    "data": {
+      "general_awareness": {
+        "tips": [
+          "Be aware of your habits, surroundings, potential attackers and his likely behaviour",
+          "Trust your instincts",
+          "Remember - your age and dress isn't a barrier. It CAN happen!",
+          "Don't run from danger, run towards safety",
+          "You can reduce your risks, not eliminate them",
+          "If you have to fight back, you must know HOW to fight back"
+        ],
+        "3_tips_to_stay_safe": [
+          "Have a confident body posture, you shouldn’t appear an easy target",
+          "Speed dial –your personal helpline is a must",
+          "Carry emergency contact information: company HR contact, immediate family member contact, medical assistance number",
+          "Use GPS and safety Apps on your mobile effectively",
+          "Never move out without a fully charged mobile phone."
+        ]
+      },
+      "vehicle_safety": [
+        "Approach your car with the keys ready",
+        "Don't unlock your car from a distance",
+        "Check fuel tank",
+        "Check your car after receiving it from valet parking",
+        "Avoid travelling through deserted areas"
+      ],
+      "safety_during_travel_in_public_transport": [
+        "Remain alert. Try not to sleep - listen to music, talk to someone",
+        "Keep your eye on the road while travelling in an auto/taxi",
+        "If the ladies compartment is empty, board the general compartment instead",
+        "A torch is handy if the lights go off"
+      ],
+      "travelling_out_station": [
+        "Ensure your family members and business associates know your itinerary",
+        "Plan your travel in such a way that your journey ends before last light",
+        "Making sure you have enough cell phone battery life before leaving one location to last until you get to another.",
+        "Pre-check your route before you travel in a different town. Use GPS if necessary"
+      ],
+      "safety_in_a_hotel": [
+        "Pre-arrange all hotel information at the destination before boarding",
+        "Request a room with a peephole and safety chain",
+        "Don't invite associates/strangers to your room, prefer meeting them in common areas like lobby",
+        "Check for hidden cameras and check mirrors"
+      ],
+      "safety_in_public_places": [
+        "Don't wear expensive jewellery when you are alone.",
+        "While in changing rooms of malls, be sure to check for a two-way mirror.",
+        "If you have a daily walking schedule, change the routes you take. Break the pattern.",
+        "If you need to wait for a while, stay indoors rather than on road or bus stop"
+      ],
+      "safety_at_social_gatherings": [
+        "Don't leave your drink unattended. If you need to move away from your drink, finish it/carry it/leave it.",
+        "Ensure that your arrangements for drop and pick-up are made well in advance",
+        "Inform your family/ colleague/friend about whom you are with and your expected time of return",
+        "Wear clothes that you can travel home alone in, or carry a simple change (flat shoes, a stole and leggings)"
+      ],
+      "safety_at_home": [
+        "Look through the peep hole before you open the door",
+        "Don't let your milkman, watchman enter your house; receive them at the main door",
+        "Do not leave the door unattended",
+        "Make sure you lock your door before turning back",
+        "Receive your parcels at the main door",
+        "Dress modestly when you answer the door"
+      ],
+      "social_media_harassment": [
+        "Don't ever put too many personal details on Facebook, Google, LinkedIn, or other social networking as they might get misused.",
+        "Update your privacy settings regularly",
+        "Virtual to real - never go alone to meet someone you met online!",
+        "Always make two kinds of online presence: a professional presence for your colleagues and clients; and a private presence meant for socializing."
+      ],
+      "crimes_against_women": {
+        "classifications": [
+          "Molestation- If a man physically touches your body with a sexual overture",
+          "Eve Teasing- If the offender utters any sound/word or makes certain gestures or shows certain objects to insult your modesty",
+          "Stalking When someone is following, contacting or attempting to contact you, despite repeated indication of disinterest from your side",
+          "Voyeurism Whoever watches or captures your image while engaging in a private act, when you would expect not to be observed",
+          "Sexual Assault When a woman is coerced, forced, threatened, against her will to participate in any involuntary sexual activity with a man",
+          "Sexual Harassment at the Work Place Unwelcome sexual behaviour that negatively affects your work life",
+          "Cruelty by Husband or Relatives Dowry demands and other related harassment",
+          "Dowry Death Women who are murdered or driven to suicide by continuous harassment and torture by husband or his relatives",
+          "Kidnapping & Abduction Taking away of a woman by force against her will",
+          "Rape Sexual intercourse against a person's consent"
+        ],
+        "first_information_report": {
+          "details": [
+            "An FIR is a written document prepared by a police officer when he receives information about a cognizable offence.",
+            "FIR must include all relevant details like date, time and place of the incident, identity of the accused, if any",
+            "FIR can be lodged by a witness as well",
+            "The police officer is bound to read out the FIR to you, preferably in your own language and confirm your assent before you sign it.",
+            "You are entitled to a copy of FIR, free of cost",
+            "The FIR must be duly stamped and signed by the Duty Officer"
+          ]
+        }
+      },
+      "know_your_rights": [
+        "Police is bound to file a report by a rape victim and listen to her grievances",
+        "You cannot be arrested without a lady police officer or constable being present.(CrPC Sec 51 and 100)",
+        "You can be searched only by a lady police officer/constable (CrPC Sec 51)",
+        "Medical examination can be conducted only in presence or supervision of a female doctor (Sec 54)",
+        "No arrests after sunset and before sunrise",
+        "Throughout the process your identity can't be revealed (IPC Sec 228A), applicable for rape victims",
+        "You can't be called to the police station for interrogation (CrPC Sec 160(1) )",
+        "A woman has the right to give her statement to a magistrate in private (CrPC Sec 164)"
+      ],
+      "sexual_harassment_at_the_work_place": {
+        "whom_to_complain_to": "Any women who feels that she is a victim of sexual harassment can file a complaint to her company’s. Internal Complaint Committee",
+        "what_should_the_complaint_cover": {
+          "details": [
+            "The written (or on e-mail) complaint should contain a description of each incident(s). It should include:",
+            "Relevant dates",
+            "Timings and locations",
+            "Name of the respondent(s) and",
+            "The working relationship between the parties"
+          ]
+        },
+        "what_to_expect_from_the_committee": {
+          "details": [
+            "A trained, skilled and competent Complaints Committee",
+            "A time bound process",
+            "Information confidentiality",
+            "Assurance of non-retaliation",
+            "Counselling or other enabling support where needed",
+            "Assistance if the complainant opts for criminal proceedings"
+          ]
+        }
+      },
+      "self_defence_tips": {
+        "aim": "The aim of self defence is to prevent harm to yourself, cause severe momentary pain to the attacker; and make a quick getaway to a safer location, without being pursued by the attacker.",
+        "defend_yourself": [
+          "Keep a balanced body posture so that the attacker cannot easily force you to the ground",
+          "When in a situation of potential danger, keep your belongings lose together and tucked under your arm. Keep your master hand free to defend yourself",
+          "Practice defensive techniques regularly with friends/family/colleagues to keep yourself ready",
+          "Remember to shout “NO“ loudly. It attracts attention of others, scares the attacker and gives you confidence",
+          "Aim for the vulnerable parts of the attacker's body",
+          "Aim and strike! The strike should be with maximum force to inflict severe pain on the attacker so that he's dissuaded from pursuing you further",
+          "Remember – Hit hard!! He was trying to harm you",
+          "Do not stay back to beat the attacker to a pulp – escape to a safe place"
+        ],
+        "hit_where_it_hurts": {
+          "using_the_base_of_your_palm_as_a_weapon": {
+            "targets": ["nose", "jaw", "throat"]
+          },
+          "elbow_strikes": {
+            "targets": ["face", "jaw", "solar plexus"]
+          },
+          "using_your_knee_as_a_weapon": {
+            "target": "groin"
+          },
+          "leg_kick_&_heel_stamp": {
+            "targets": ["knee", "shin and toes"]
+          }
+        }
+      },
+      "common_questions_about_pepper_spray": [
+        {
+          "question": "Is pepper spray legal in India? Can i get punished for using it?",
+          "answer": "Ans- Pepper spray is legal in India, provided you use it for self defence. However, you should also check if your company has a policy about it."
+        },
+        {
+          "question": "Is it dangerous? Will it kill or harm a person?",
+          "answer": "Ans - Pepper spray temporarily incapacitates (Indian pepper spray's are made of natural chilly extracts). Remember, the person you are using it against was trying to harm you!"
+        },
+        {
+          "question": "Where can I buy it?",
+          "answer": "Ans - You can buy it in medical stores or even order online. Some of the common brands are “Knock out” and “Cobra”."
+        },
+        {
+          "question": "Can I carry it on flights with me?",
+          "answer": "Ans -  It is advisable to put it in your check in baggage; airports do not permit it in the hand baggage."
+        },
+        {
+          "question": "Is there anything else I need to know about pepper spray?",
+          "answer": "Ans -  Keep it away from children who may accidentally use it and if you have to use it, spray it away from you at arm's length."
+        }
+      ],
+      "what's_in_your_purse": {
+        "potential_weapons": [
+          "Pen",
+          "Pencil",
+          "Nail filer",
+          "Bangles",
+          "Comb",
+          "Keys",
+          "Phone charger",
+          "Mobile phone",
+          "Scarf",
+          "Ear phones",
+          "Deodorant",
+          "Pins"
+        ]
+      },
+      "15_essential_safety_tips_every_woman_should_know": [
+        {
+          "tip": "Trust Your Gut Instinct",
+          "key_points": [
+            "Recognize and act on instinctual warnings.",
+            "Avoid places or people that make you uncomfortable.",
+            "Call out and confront inappropriate behavior when needed."
+          ]
+        },
+        {
+          "tip": "Practice Situational Awareness",
+          "key_points": [
+            "Limit distractions like looking at your phone or wearing both earbuds.",
+            "Be mindful of landmarks when traveling.",
+            "Walk with purpose and scan your environment regularly."
+          ]
+        },
+        {
+          "tip": "Keep Your Cell Phone Charged and Accessible",
+          "key_points": [
+            "Keep your phone charged and carry a backup charger.",
+            "Share your travel plans or arrival times with someone you trust.",
+            "Use location-sharing apps in case of emergencies."
+          ]
+        },
+        {
+          "tip": "Wear Tactically Efficient Clothing",
+          "key_points": [
+            "Wear boots, jackets, or clothes with functional pockets.",
+            "Choose outfits that allow you to move comfortably.",
+            "Dress in ways that make you feel safe and confident."
+          ]
+        },
+        {
+          "tip": "Strengthen Boundaries and Practice Saying No",
+          "key_points": [
+            "Practice saying no without apology.",
+            "Don’t prioritize others’ comfort over your safety.",
+            "Get comfortable being firm and assertive in daily life."
+          ]
+        },
+        {
+          "tip": "Take Self-Defense Classes",
+          "key_points": [
+            "Enroll in self-defense courses focused on practical techniques.",
+            "Train regularly to build muscle memory.",
+            "Find a supportive group of women to practice with."
+          ]
+        },
+        {
+          "tip": "Be Prepared When Traveling Alone",
+          "key_points": [
+            "Research travel advisories and local customs.",
+            "Use licensed transportation and avoid walking alone at night.",
+            "Stay connected with someone throughout your trip."
+          ]
+        },
+        {
+          "tip": "Reinforce Home Security",
+          "key_points": [
+            "Install security cameras and reinforce locks.",
+            "Avoid posting real-time travel updates on social media.",
+            "Check surroundings before opening doors or entering your home."
+          ]
+        },
+        {
+          "tip": "Lock Your Car and Stay Alert While Driving",
+          "key_points": [
+            "Lock your doors and keep windows closed.",
+            "Park near light poles or busy areas.",
+            "Be mindful when stopped at intersections or gas stations."
+          ]
+        },
+        {
+          "tip": "Use a Personal Alarm or Whistle",
+          "key_points": [
+            "Attach alarms or whistles to easily accessible items.",
+            "Use them to attract attention if threatened.",
+            "Train yourself to activate them quickly in emergencies."
+          ]
+        },
+        {
+          "tip": "Minimize Flashy Items and Expensive Accessories",
+          "key_points": [
+            "Avoid displaying expensive items in public.",
+            "Secure your valuables in a bag or jacket pocket.",
+            "Use tracking devices like Airtags for essential belongings."
+          ]
+        },
+        {
+          "tip": "Create a Safe Room at Home",
+          "key_points": [
+            "Choose a room with a secure door and lock.",
+            "Keep a charged phone in the safe room.",
+            "Store emergency tools for added protection."
+          ]
+        },
+        {
+          "tip": "Use the Internet Wisely",
+          "key_points": [
+            "Use a nickname or alias online.",
+            "Avoid sharing personal details publicly.",
+            "Regularly update privacy settings on social media."
+          ]
+        },
+        {
+          "tip": "Build Emotional and Mental Resilience",
+          "key_points": [
+            "Practice deep breathing exercises daily.",
+            "Channel emotions through physical outlets.",
+            "Stay mentally prepared for unexpected situations."
+          ]
+        },
+        {
+          "tip": "Don’t Be Afraid to Fight Back",
+          "key_points": [
+            "Aim for vulnerable areas such as the eyes or groin, and use the element of surprise to your advantage.",
+            "Fighting back increases the chance of survival and deters attackers."
+          ]
+        }
+      ],
+      "emotional_support": [
+        {
+          "user_query": "I'm feeling anxious, what should I do?",
+          "bot_response": "I understand how overwhelming things can feel. It's okay to take a deep breath and slow down. Sometimes, talking to a friend or family member can help ease your mind. Would you like me to suggest a few calming activities?"
+        },
+        {
+          "user_query": "I am scared, I don't know what to do.",
+          "bot_response": "It's completely okay to feel scared, and you're not alone in this. Take a moment to gather your thoughts. If you're feeling unsafe, I can help you find a safe place nearby or suggest actions for your safety. Would you like me to guide you through that?"
+        },
+        {
+          "user_query": "Why does this always happen to me?",
+          "bot_response": "I'm really sorry you're feeling this way. It's important to know that what you're going through is not your fault. Everyone deserves to feel safe and heard. I'm here to help you. Do you want to talk about what's happening?"
+        },
+        {
+          "user_query": "I'm too afraid to speak up.",
+          "bot_response": "It's okay to feel afraid, but speaking up is a strong and courageous thing to do. If you don't feel ready, that's okay too. Take your time, and when you're ready, I can help you with your next steps. Would you like me to help you find resources to feel more empowered?"
+        },
+        {
+          "user_query": "I'm really stressed out.",
+          "bot_response": "Stress can be hard to manage, but there are things we can do to ease it. Let's try some relaxation techniques together. Would you like to try some breathing exercises or hear some self-care tips?"
+        },
+        {
+          "user_query": "I don’t know if I should trust anyone.",
+          "bot_response": "It's hard to trust others when you've been hurt before. It's okay to take your time to heal and to trust people slowly. I'm here to listen and support you, no matter what you're going through."
+        },
+        {
+          "user_query": "I feel like everything is falling apart.",
+          "bot_response": "It may feel overwhelming right now, but you're strong enough to get through this. Sometimes the hardest times lead to new beginnings. Let's talk through what you're feeling—together, we can figure out the next step."
+        },
+        {
+          "user_query": "I'm scared to go outside after what happened.",
+          "bot_response": "It's completely normal to feel scared, and your safety matters most. Taking small steps to feel safe again can help. I can guide you to nearby support systems, like friends, family, or even community groups that can offer help."
+        },
+        {
+          "user_query": "I feel helpless.",
+          "bot_response": "It's okay to feel that way, but remember, you're not alone. It's important to reach out to people you trust, and there are always resources available to help you. Would you like me to share some options for support?"
+        },
+        {
+          "user_query": "How can I regain my confidence after what happened?",
+          "bot_response": "Regaining confidence is a journey, but you don't have to do it alone. Remember, you're resilient. It's important to take things at your own pace, and I'd be happy to suggest a few small steps to start rebuilding that confidence."
+        }
+      ],
+      "safety_support": [
+        {
+          "user_query": "Is there any danger in my area?",
+          "bot_response": "Let me check the latest crime statistics for your area. Please provide your city or region, and I’ll get back to you with the most accurate and up-to-date information."
+        },
+        {
+          "user_query": "What should I do if I feel threatened?",
+          "bot_response": "If you feel threatened, your safety is the top priority. Try to get to a safe location, and contact the police immediately. If you want, I can also assist in finding emergency contacts nearby. Would you like me to do that?"
+        },
+        {
+          "user_query": "Can you tell me the crime rate in my area?",
+          "bot_response": "I can provide the latest data on crime rates in your area. Could you please provide your location so I can check the statistics for you?"
+        },
+        {
+          "user_query": "How can I protect myself when walking alone?",
+          "bot_response": "When walking alone, it’s important to stay aware of your surroundings. Avoid distractions like looking at your phone. If you feel uncomfortable, try to stay in well-lit areas, and consider using a personal safety app that can alert someone if you're in trouble."
+        },
+        {
+          "user_query": "Are there any safe places around me?",
+          "bot_response": "I can help you find safe locations near you, like police stations, hospitals, or emergency shelters. Can you share your location, and I'll look up the safest places nearby?"
+        },
+        {
+          "user_query": "How can I know if an area is safe to visit?",
+          "bot_response": "You can check crime statistics for the area, stay updated on local news, or ask people who live there for their experiences. If you provide your current location, I can assist you in checking for any reports related to the area."
+        },
+        {
+          "user_query": "How do I make sure I'm safe when using public transport?",
+          "bot_response": "When using public transport, always stay alert, keep your belongings secure, and avoid empty carriages, especially late at night. If something feels off, don’t hesitate to get off at the next stop or inform the driver or a fellow passenger."
+        },
+        {
+          "user_query": "What should I do if I see someone suspicious?",
+          "bot_response": "If you notice someone suspicious, trust your instincts. Keep a safe distance, avoid confrontation, and contact authorities if necessary. I can help you find the nearest police station or emergency contact number if needed."
+        },
+        {
+          "user_query": "Is it safe to walk alone at night in my area?",
+          "bot_response": "It's always best to avoid walking alone at night, especially in poorly lit or deserted areas. If you must walk, make sure someone knows where you are, and stay in well-lit, busy areas. Would you like me to provide a list of safe routes or places in your area?"
+        },
+        {
+          "user_query": "What should I do if I feel someone is following me?",
+          "bot_response": "If you feel someone is following you, try to stay calm. Quickly head to a public place or well-lit area where there are other people. Don't hesitate to call emergency services if you're in immediate danger."
+        },
+        {
+          "user_query": "What precautions should I take while traveling alone?",
+          "bot_response": "When traveling alone, always stay aware of your surroundings and keep your phone charged with emergency contacts saved. Try to avoid isolated areas and share your travel details with someone you trust. Let me know if you'd like me to find local safe places for you."
+        },
+        {
+          "user_query": "Can I trust people I meet online?",
+          "bot_response": "It’s important to be cautious with people you meet online, especially if you haven't met in person. Try to get to know the person slowly and watch out for any signs of manipulation. Always prioritize your safety. If you ever feel uncomfortable, don't hesitate to distance yourself."
+        },
+        {
+          "user_query": "How can I stay safe in a crowd?",
+          "bot_response": "In a crowded place, it's important to stay close to friends or people you trust, keep an eye on your belongings, and be aware of your exit routes. If you feel unsafe, try to move to a more open space where there are security personnel or a group of people."
+        },
+        {
+          "user_query": "How do I know if someone is making me uncomfortable intentionally?",
+          "bot_response": "If someone's behavior makes you feel uneasy, it’s important to trust those feelings. Some signs of discomfort can include inappropriate remarks, persistent behavior despite your disinterest, or a sense of being controlled. Your comfort should always come first."
+        },
+        {
+          "user_query": "What if I feel unsafe while working late?",
+          "bot_response": "When working late, it’s a good idea to have someone pick you up, or use a reliable transport service. If that’s not possible, stay in well-lit areas and avoid empty parking lots. You can also use safety apps that share your location with a trusted contact."
+        }
+      ],
+      "emergency_protocols": [
+        {
+          "user_query": "What should I do in case of an emergency?",
+          "bot_response": "In case of an emergency, the first step is to stay calm. Contact emergency services immediately by dialing 112 (India's emergency number). If you're in immediate danger, try to move to a safer place if possible. Would you like me to guide you on what to do next?"
+        },
+        {
+          "user_query": "How can I call for help during an emergency?",
+          "bot_response": "To call for help, dial 112, the national emergency number. It's a free call that will connect you to police, fire, or medical services. You can also use emergency alert apps that notify your trusted contacts if you're in danger."
+        },
+        {
+          "user_query": "How can I reach out for mental health support?",
+          "bot_response": "Mental health is incredibly important, and there are resources available to help. You can contact mental health helplines, like the National Mental Health Support helpline at 91-22-2772 6771. Would you like me to provide other resources or contacts?"
+        },
+        {
+          "user_query": "I need to report an incident. How can I do that?",
+          "bot_response": "If you need to report an incident, you can contact local authorities or file a complaint with the police station in your area. I can help you locate the nearest police station if needed. Would you like me to do that?"
+        },
+        {
+          "user_query": "What is the best way to stay safe at night?",
+          "bot_response": "At night, it's important to stay in well-lit areas and avoid deserted streets. Always let someone know where you're going, and consider carrying a personal safety alarm or pepper spray for protection. Would you like more tips on night safety?"
+        },
+        {
+          "user_query": "What should I do if I witness a crime?",
+          "bot_response": "If you witness a crime, stay as calm as possible and call emergency services immediately. If it's safe to do so, try to note down key details such as the appearance of the suspect or any vehicle information. I can help you report it to local authorities if you'd like."
+        },
+        {
+          "user_query": "How can I alert my family or friends if I'm in danger?",
+          "bot_response": "There are various ways to alert your loved ones, like sending an emergency text or using personal safety apps that can notify your contacts with your location. I can also guide you through setting up safety apps that include an SOS feature."
+        },
+        {
+          "user_query": "What should I do if I get into a dangerous situation?",
+          "bot_response": "If you're in danger, your priority is to get to a safe place. If possible, try to alert someone and contact emergency services immediately. Would you like me to help you find nearby safe places or emergency contacts?"
+        },
+        {
+          "user_query": "What steps should I take if I'm injured?",
+          "bot_response": "If you're injured, assess the severity of the injury. For minor injuries, try to stop the bleeding by applying pressure. For serious injuries, seek medical help immediately. I can help you find the nearest hospital or clinic."
+        },
+        {
+          "user_query": "How do I report a missing person?",
+          "bot_response": "To report a missing person, contact the nearest police station or call the national helpline number. It's helpful to provide as many details as possible, such as the last known location, appearance, and any relevant circumstances."
+        },
+        {
+          "user_query": "What should I do if I can’t reach emergency services?",
+          "bot_response": "If you're unable to reach emergency services, try to find a safe location and reach out to someone nearby, such as a friend, a security guard, or even someone in a nearby store. If possible, text or message someone you trust with your location."
+        },
+        {
+          "user_query": "Can I report an emergency without identifying myself?",
+          "bot_response": "Yes, many emergency services allow anonymous reports. If you feel safer doing so, you can report the incident without providing your personal information. However, remember that providing your identity can help authorities assist you more effectively."
+        },
+        {
+          "user_query": "What’s the first thing I should do if I'm in a violent situation?",
+          "bot_response": "In a violent situation, your safety is the most important thing. If you can, get to a safe place immediately. Call emergency services, and if you're unable to talk, use a silent message or app to alert someone that you need help."
+        },
+        {
+          "user_query": "What do I do if I lose contact with my friend during an emergency?",
+          "bot_response": "If you lose contact, try calling again, and check the areas where your friend might be. If you’re still unable to reach them, inform local authorities or people nearby to help find them. Providing any last known details about their location will help."
+        },
+        {
+          "user_query": "How do I handle a medical emergency if I’m alone?",
+          "bot_response": "In a medical emergency, if you're alone, try to remain as calm as possible. Assess the situation and administer basic first aid if you're able to. If it's more serious, immediately call emergency services and provide them with any important details such as symptoms, location, and medical history."
+        }
+      ],
+      "app_usage": [
+        {
+          "user_query": "How do I use the HerShield app?",
+          "bot_response": "Welcome to HerShield! To use the app, start by creating an account and setting up your profile. You can use the SOS button in case of danger, view maps for threat zones, and see active community members nearby. Explore the different features to stay safe and connected."
+        },
+        {
+          "user_query": "What is the SOS button for?",
+          "bot_response": "The SOS button is a critical feature designed for emergencies. When you press it, the app will immediately alert your emergency contacts and share your location with them. It can also connect you to local emergency services for quick assistance."
+        },
+        {
+          "user_query": "How do I view threat zones on the map?",
+          "bot_response": "To view threat zones, open the app and navigate to the 'Map' section. Here, you'll see different areas highlighted based on reported incidents and safety data. This can help you avoid high-risk areas and plan safer routes."
+        },
+        {
+          "user_query": "Can I see active community members nearby?",
+          "bot_response": "Yes, you can see active community members in your area. Go to the 'Community' section of the app, where you'll find a list of users who are currently active and nearby. This can be helpful for finding support or connecting with others in your vicinity."
+        },
+        {
+          "user_query": "How do I report an incident using the app?",
+          "bot_response": "To report an incident, go to the 'Report' section of the app. Provide details about the incident, including the location, time, and any relevant information. Your report will be shared with local authorities and other community members to help keep everyone informed and safe."
+        },
+        {
+          "user_query": "What should I do if I need immediate help?",
+          "bot_response": "If you need immediate help, press the SOS button on the app. This will alert your emergency contacts and local emergency services with your location. You can also call emergency services directly from the app if needed."
+        },
+        {
+          "user_query": "How can I stay updated on safety alerts?",
+          "bot_response": "To stay updated on safety alerts, enable notifications in the app settings. This will ensure you receive real-time alerts about any incidents or threats in your area, helping you stay informed and safe."
+        },
+        {
+          "user_query": "How do I share my location with friends?",
+          "bot_response": "To share your location with friends, go to the 'Share Location' feature in the app. Select the contacts you want to share your location with and set the duration for how long you want to share it. This can be useful when you're traveling alone or in unfamiliar areas."
+        },
+        {
+          "user_query": "What is the community forum for?",
+          "bot_response": "The community forum is a space where you can connect with other users, share experiences, and seek advice. It's a supportive environment where you can discuss safety tips, report incidents, and find comfort in knowing you're not alone."
+        },
+        {
+          "user_query": "How can I contribute to the community?",
+          "bot_response": "You can contribute to the community by actively participating in the forum, sharing your experiences, and providing support to others. Report any incidents you witness and offer advice based on your knowledge. Your involvement helps create a safer and more supportive community."
+        },
+        {
+          "user_query": "How do I provide feedback about the app?",
+          "bot_response": "We value your feedback! To provide feedback, go to the 'Settings' section of the app and select 'Feedback.' Here, you can share your thoughts, suggestions, or any issues you've encountered. Your input helps us improve the app and better serve the community."
+        },
+        {
+          "user_query": "What should I do if I encounter a bug or issue with the app?",
+          "bot_response": "If you encounter a bug or issue with the app, please report it through the 'Feedback' section in the settings. Provide as much detail as possible about the problem so our team can address it promptly. Your reports help us maintain and improve the app's functionality."
+        },
+        {
+          "user_query": "Can I use the app offline?",
+          "bot_response": "Some features of the app, such as viewing maps and accessing the community forum, require an internet connection. However, the SOS button and emergency contact features can still be used offline to ensure your safety in case of an emergency."
+        },
+        {
+          "user_query": "How do I update my profile information?",
+          "bot_response": "To update your profile information, go to the 'Profile' section of the app. Here, you can edit your personal details, update your profile picture, and manage your settings. Keeping your profile up-to-date helps ensure that the app can provide you with the best possible support."
+        }
+      ],
+      "her_shield_social_media_platform": [
+        {
+          "user_query": "How do I use the HerShield social media platform?",
+          "bot_response": "Our social media platform is integrated into the HerShield app and allows you to share incidents, campaigns, and safety tips with the community. You can post updates, follow other users, and engage with content to stay informed and connected."
+        },
+        {
+          "user_query": "How can I share an incident on the HerShield social media platform?",
+          "bot_response": "To share an incident, go to the 'Social Media' section of the app and select 'Create Post.' Choose the 'Incident' option, provide details about what happened, and include any relevant photos or videos. Your post will be visible to the community, helping to spread awareness and support."
+        },
+        {
+          "user_query": "Can I create a campaign on the HerShield social media platform?",
+          "bot_response": "Yes, you can create a campaign to raise awareness about specific issues or support causes related to women's safety. Go to the 'Social Media' section, select 'Create Post,' and choose the 'Campaign' option. Provide details about your campaign, including its purpose and how others can get involved."
+        },
+        {
+          "user_query": "How do I follow other users on the HerShield social media platform?",
+          "bot_response": "To follow other users, go to the 'Social Media' section and browse through the list of users or search for specific profiles. Click on a user's profile and select the 'Follow' button. This will allow you to see their posts and updates in your feed."
+        },
+        {
+          "user_query": "Can I comment on posts on the HerShield social media platform?",
+          "bot_response": "Yes, you can comment on posts to engage with the community and share your thoughts. Simply go to the post you want to comment on, and use the 'Comment' feature to add your input. Your comments can provide support, offer advice, or share related experiences."
+        },
+        {
+          "user_query": "How do I report inappropriate content on the HerShield social media platform?",
+          "bot_response": "If you encounter inappropriate content, you can report it directly from the app. Go to the post in question and select the 'Report' option. Provide details about why you find the content inappropriate, and our team will review it promptly to ensure the platform remains safe and respectful."
+        },
+        {
+          "user_query": "Can I share safety tips on the HerShield social media platform?",
+          "bot_response": "Absolutely! Sharing safety tips is a great way to contribute to the community. Go to the 'Social Media' section, select 'Create Post,' and choose the 'Safety Tip' option. Provide your tip along with any relevant information or examples. Your post can help others stay safe and informed."
+        },
+        {
+          "user_query": "How do I see the latest campaigns and incidents on the HerShield social media platform?",
+          "bot_response": "To see the latest campaigns and incidents, go to the 'Social Media' section of the app. Here, you can browse through the feed to see recent posts from the community. You can also use filters to view specific types of content, such as campaigns or incidents, to stay updated on what's happening."
+        },
+        {
+          "user_query": "Can I share my location with a post on the HerShield social media platform?",
+          "bot_response": "Yes, you can share your location with a post to provide context or alert the community about incidents in specific areas. When creating a post, use the 'Add Location' feature to include your current location. This can help others stay informed about safety issues in their vicinity."
+        },
+        {
+          "user_query": "How do I customize my social media profile on the HerShield platform?",
+          "bot_response": "To customize your social media profile, go to the 'Profile' section of the app and select 'Edit Profile.' Here, you can update your profile picture, bio, and other personal details. You can also choose to make your profile public or private, depending on your preferences."
+        },
+        {
+          "user_query": "Can I block or report a user on the HerShield social media platform?",
+          "bot_response": "Yes, you can block or report a user if you feel uncomfortable or if their behavior is inappropriate. Go to the user's profile and select the 'Block' or 'Report' option. Provide details about why you are reporting the user, and our team will review the situation to ensure the community remains safe and respectful."
+        }
+      ]
+    }
+  }
+  
